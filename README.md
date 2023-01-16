@@ -61,7 +61,7 @@ I could not to it on my office compure due to security, so I have to do it in my
 
 1. In your home directory on the EMR master node (/home/hadoop), run the following command:
 
-   <strong>spark-submit etl.py<strong>
+   <strong>spark-submit etl.py</strong>
 
 2. After a couple of minutes your job should show up in the Spark History Server page in your browser
 
@@ -94,10 +94,10 @@ etl.py will process the entire datasets.
 Provide the key and secrect access key in aws/dl.cfg file 
 
 for run on your Local computer or project workspace - Open the terminal and the run below command at workspace directory<BR>
-<strong>python etl.py<strong>
+<strong>python etl.py</strong>
 
 ## Author
-<strong>Ajay Jain<strong>
+<strong>Ajay Jain</strong>
 
 ## GitHub:
 https://github.com/ajaygithub07/udacity-datalake-project-ajayjain
