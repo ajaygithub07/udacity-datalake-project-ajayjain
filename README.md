@@ -1,5 +1,5 @@
-# Project: Data Lake with Spark###
-## Introduction##
+# Project: Data Lake with Spark
+## Introduction
 A music streaming startup, Sparkify, has grown their user base and song database even more and want to move their data warehouse to a data lake. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
 Sparkify want to build an ETL pipeline that extracts their data from S3, processes them using Spark, and loads the data back into S3 as a set of dimensional tables. This will allow their analytics team to continue finding insights in what songs their users are listening to.
@@ -98,3 +98,6 @@ for run on your Local computer or project workspace - Open the terminal and the 
 
 ## Author
 <strong>Ajay Jain<strong>
+
+## GitHub:
+https://github.com/ajaygithub07/udacity-datalake-project-ajayjain
